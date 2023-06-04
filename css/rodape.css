@@ -1,0 +1,35 @@
+/* Formatações CSS do Rodapé*/
+
+footer{
+	background-color: #212121;
+	height: 40px;
+	color: #FFF;
+	text-align: right;
+}
+
+footer a:link{
+	text-decoration: none;
+	font-weight: bold;
+	color: #FFFFFF;
+}
+
+footer a:visited{
+	text-decoration: none;
+	font-weight: bold;
+	color: #FFFFFF;
+}
+
+footer a:hover{
+	text-decoration: none;
+	font-weight: bold;
+	color: #34495E;
+}
+
+footer p{
+	font-weight: bold;
+	float: left;
+}
+
+#rodape{
+	padding: 10px 120px 0px 120px;
+}

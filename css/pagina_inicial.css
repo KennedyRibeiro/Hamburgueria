@@ -1,0 +1,44 @@
+/*CSS do corpo da página inicial*/
+
+div#corpo figure img {
+	width: 100%;
+}
+
+div#corpo .tipos {
+	float: left;
+	text-align: center;
+	margin-bottom: 30px;
+	margin-top: 30px;
+	padding: 0.5em 4em;
+}
+
+div#corpo .tipos img {
+	width: 180px;
+	height: 150px;
+}
+
+div#corpo .tipos figcaption {
+	font-weight: bold;
+	font-size: 14px;
+	margin-bottom: 10px;
+	margin-top: 10px;
+	color: #202020;
+}
+
+div#corpo h1 {
+	text-align: center;
+	margin: 20px 0px 10px 0px;
+	color: #505050;
+}
+
+div#corpo p {
+	padding: 10px 20px 0px 20px;
+}
+
+div#figuras {
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	align-items: center;
+}
+
